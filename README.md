@@ -1,5 +1,5 @@
 # 💫 Hi I'm Marwan Shafi
-**A passionate CyberSecurity Analyst Enthusiast || Full Stack Developer**
+**A passionate CyberSecurity Enthusiast || Full Stack Developer**
 - 🔭 **I’m currently working on:** File Storage App
 - 🌱 **I’m currently learning:** Machine Learning
 - 📫 **How to reach me:** marwanshafibcs22311002@iiitsonepat.ac.in
