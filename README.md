@@ -1,6 +1,6 @@
 # 💫 Hi I'm Marwan Shafi
 **A passionate CyberSecurity Enthusiast || Full Stack Developer**
-- 🔭 **I’m currently working on:** EMS
+- 🔭 **I’m currently working on:** job portal
 - 🌱 **I’m currently learning:** Backend development
 - 📫 **How to reach me:** marwanshafibcs22311002@iiitsonepat.ac.in
 
