@@ -76,6 +76,7 @@ Mentor: Dr. Jitendra K. Samriya
 Tech Stack: CNN, FGSM, CIFAKE Dataset (~120K images)
 Achievement: 98.5% detection rate — under paper submission
 
+
 **🛒 FreshFinds**
 Tech Stack: MERN Stack
 Features: Marketplace with an image-based freshness classifier
@@ -83,7 +84,7 @@ Features: Marketplace with an image-based freshness classifier
 **📊 Influential User Identification**
 Tech Stack: XGBoost, SHAP, Twitter Network (80K+ nodes)
 Achievement: 99.3% accuracy
-Mentor: Dr. MD Arquam
+
 
 ---
 
@@ -111,6 +112,18 @@ Mentor: Dr. MD Arquam
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
+
+<!--
+  ⚠️ SELF-HOSTING NOTE: The shared github-readme-stats.vercel.app instance is
+  frequently rate-limited/down since it serves every GitHub user's README off
+  one free Vercel deployment. To fix permanently:
+  1. Fork https://github.com/anuraghazra/github-readme-stats
+  2. Deploy your fork to your own Vercel account (one click "Deploy" button
+     in that repo's README)
+  3. Replace "github-readme-stats.vercel.app" below with your own domain,
+     e.g. "your-username-github-readme-stats.vercel.app"
+  Do the same for streak-stats: fork https://github.com/DenverCoder1/github-readme-streak-stats
+-->
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=marwaaann&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=86400)
