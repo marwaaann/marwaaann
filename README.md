@@ -32,13 +32,13 @@ I'm active in competitive programming — top 15% globally on LeetCode and 1540+
 ### 💼 Professional Experience:
 
 **Fullstack Developer Intern @ Kiwisoft Solutions**
-*2025*
+*Jun 2026 – Jul 2026 | Kannur, Kerala*
 
-- 🔧 Built a **Job Portal** using Spring Boot + React 19/Vite with JWT-based authentication and refresh-token rotation
-- 🛡️ Implemented **RBAC** (Role-Based Access Control) across multiple user roles
-- 🔄 Designed a **6-stage hiring pipeline** with duplicate candidate detection
-- 🔑 Added OTP-based password reset flow for secure account recovery
-- 🛠️ Tech Stack: Java, Spring Boot, React, PostgreSQL, JWT, REST APIs
+- 🔧 Built two production-grade Spring Boot systems — an **Employee & Department Management System** and a **Recruitment/Job Portal** — spanning 10+ modules (Auth, RBAC, Leave Management, Job Postings, Audit Logging)
+- 🛡️ Designed 20+ secure REST APIs with Spring Security and JWT (access/refresh tokens), with role-based access across six roles (Admin, Manager, Employee, Super Admin, Partner, Client)
+- 🗄️ Architected normalized PostgreSQL schemas across 12+ entities using Spring Data JPA/Hibernate, with pagination, indexed foreign keys, and optimized queries
+- 🔄 Implemented a multi-stage hiring workflow (Applied → Shortlisted → Interview → Offered/Rejected), OTP-based password reset, and duplicate-candidate detection
+- 🛠️ Tech Stack: Java, Spring Boot, Spring Security, Spring Data JPA/Hibernate, React, PostgreSQL, JWT
 
 ---
 
@@ -48,8 +48,10 @@ I'm active in competitive programming — top 15% globally on LeetCode and 1540+
 ---
 
 ### 🎯 Achievements:
-- 🏆 Top 15% globally on LeetCode
+- 🏆 3rd Rank — "Guardians of the Algorithms" Intra-College Codathon, IIIT Sonepat
+- 🏆 Solved 500+ problems across coding platforms; Max LeetCode rating 1624, top 15% globally
 - 🏆 CodeChef rating: 1540+
+- 🔐 Certified Cyber Engineer – Computer & Network Security (CCE-CNS)
 - 📚 B.Tech CSE, Final Year — IIIT Sonepat
 - 🔬 Research collaborations with Dr. Jitendra K. Samriya (Computer Vision) and Dr. MD Arquam (Social Network Analysis)
 
@@ -57,9 +59,13 @@ I'm active in competitive programming — top 15% globally on LeetCode and 1540+
 
 ### 🚀 Featured Projects:
 
-**🧑‍💼 Job Portal (Kiwisoft Internship Project)**
-Tech Stack: Spring Boot, React 19/Vite, PostgreSQL, JWT
-Features: RBAC, 6-stage hiring pipeline, duplicate candidate detection, OTP password reset
+**🧑‍💼 Recruitment & Job Portal**
+Tech Stack: Java 17, Spring Boot, React 19/Vite, PostgreSQL, JWT
+Features: 50+ REST endpoints across 8 modules, 11 normalized PostgreSQL entities, stateless JWT with refresh-token rotation, cookie-based CSRF protection, RBAC across 4 roles, 6-stage hiring pipeline, OTP password reset, duplicate-candidate detection
+
+**🏢 Employee & Department Management System**
+Tech Stack: Java, Spring Boot, PostgreSQL, JWT, JPA/Hibernate
+Features: 6 modules (Auth, RBAC, Leave Management, Approval Workflows, Audit Logging), 100+ employee records, 12+ REST APIs, multi-step leave approval workflow, structured audit logging
 
 **🧠 Brain Tumor Detection**
 Tech Stack: YOLOv8/YOLOv11, Python
@@ -107,9 +113,9 @@ Mentor: Dr. MD Arquam
 ---
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=marwaaann&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=marwaaann&theme=highcontrast&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marwaaann&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=marwaaann&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=86400)
+![](https://streak-stats.demolab.com?user=marwaaann&theme=highcontrast&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marwaaann&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact&cache_seconds=86400)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
