@@ -53,7 +53,8 @@ I'm active in competitive programming — top 15% globally on LeetCode and 1540+
 - 🏆 CodeChef rating: 1540+
 - 🔐 Certified Cyber Engineer – Computer & Network Security (CCE-CNS)
 - 📚 B.Tech CSE, Final Year — IIIT Sonepat
-- 🔬 Research collaborations with Dr. Jitendra K. Samriya (Computer Vision) and Dr. MD Arquam (Social Network Analysis)
+- 🔬 Research collaborations with Dr. Bhoopesh Singh Bhati (Adversarial Attack Detection), 
+ Dr. Jitendra K. Samriya (Computer Vision) and Dr. MD Arquam (Social Network Analysis)
 
 ---
 
