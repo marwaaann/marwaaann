@@ -1,5 +1,5 @@
 ### 👋 Hello, I'm Marwan!
-🎯 Full-Stack Developer | 🔐 CyberSecurity Enthusiast | 🎓 B.Tech CSE @ IIIT Sonepat (Final Year) | 🔗 [marwanshafi.tech](https://marwanshafi.tech)
+🎯 Full-Stack Developer | 🔐 AI/ML Enthusiast | 🎓 B.Tech CSE @ IIIT Sonepat (Final Year) | 🔗 [marwanshafi.tech](https://marwanshafi.tech)
 
 ---
 
