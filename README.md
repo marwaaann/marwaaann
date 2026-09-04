@@ -35,8 +35,8 @@ I'm active in competitive programming — top 15% globally on LeetCode and 1540+
 *Jun 2026 – Jul 2026 | Kannur, Kerala*
 
 - 🔧 Built two production-grade Spring Boot systems — an **Employee & Department Management System** and a **Recruitment/Job Portal** — spanning 10+ modules (Auth, RBAC, Leave Management, Job Postings, Audit Logging)
-- 🛡️ Designed 20+ secure REST APIs with Spring Security and JWT (access/refresh tokens), with role-based access across six roles (Admin, Manager, Employee, Super Admin, Partner, Client)
-- 🗄️ Architected normalized PostgreSQL schemas across 12+ entities using Spring Data JPA/Hibernate, with pagination, indexed foreign keys, and optimized queries
+- 🛡️ Designed 32+ secure REST APIs with Spring Security and JWT (access/refresh tokens), with role-based access across six roles (Admin, Manager, Employee, Super Admin, Partner, Client)
+- 🗄️ Architected normalized PostgreSQL schemas across 18+ entities using Spring Data JPA/Hibernate, with pagination, indexed foreign keys, and optimized queries
 - 🔄 Implemented a multi-stage hiring workflow (Applied → Shortlisted → Interview → Offered/Rejected), OTP-based password reset, and duplicate-candidate detection
 - 🛠️ Tech Stack: Java, Spring Boot, Spring Security, Spring Data JPA/Hibernate, React, PostgreSQL, JWT
 
@@ -60,17 +60,22 @@ I'm active in competitive programming — top 15% globally on LeetCode and 1540+
 
 ### 🚀 Featured Projects:
 
+**🥗 NutriVerse**
+Tech Stack: TypeScript, Node.js/Express, React, MongoDB, Redis, LangGraph, Gemini API, USDA API
+Features: Gemini-powered natural-language ingredient parsing mapped to the USDA FoodData Central API for 7 nutritional metrics per recipe with end-to-end Zod-validated schemas, LangGraph-based agentic recipe assistant with dynamic LLM tool-calling (bindTools) across a 4-node graph and Gemini-backed fallback generation, HttpOnly-cookie JWT auth with a Redis-backed session/cache layer
+
 **🧑‍💼 Recruitment & Job Portal**
-Tech Stack: Java 17, Spring Boot, React 19/Vite, PostgreSQL, JWT
-Features: 50+ REST endpoints across 8 modules, 11 normalized PostgreSQL entities, stateless JWT with refresh-token rotation, cookie-based CSRF protection, RBAC across 4 roles, 6-stage hiring pipeline, OTP password reset, duplicate-candidate detection
+Tech Stack: Java 17, Spring Boot, React 19/Vite, PostgreSQL, WebSocket, JWT
+Features: 50+ REST endpoints across 8 modules, 11 normalized PostgreSQL entities, stateless JWT with refresh-token rotation, cookie-based CSRF protection, RBAC across 4 roles, real-time role-based messaging via Spring WebSocket/STOMP/SockJS with live delivery status, 6-stage hiring pipeline, OTP password reset, duplicate-candidate detection
 
 **🏢 Employee & Department Management System**
 Tech Stack: Java, Spring Boot, PostgreSQL, JWT, JPA/Hibernate
 Features: 6 modules (Auth, RBAC, Leave Management, Approval Workflows, Audit Logging), 100+ employee records, 12+ REST APIs, multi-step leave approval workflow, structured audit logging
 
-**🧠 Brain Tumor Detection**
-Tech Stack: YOLOv8/YOLOv11, Python
-Features: Trained on 500+ MRI scans, ~91% detection accuracy
+**🧠 NeuroScan.AI**
+Tech Stack: Python, YOLOv8, FastAPI, Streamlit
+Features: FastAPI backend + Streamlit frontend for real-time YOLOv8 brain tumor inference on MRI scans; trained across 4 tumor classes (Glioma, Meningioma, Pituitary, No Tumor) on 500+ MRI scans, 15% generalization improvement over baseline
+Achievement: 96.3% mAP@50, 93.9% precision, 94.0% recall — supervised by Dr. Jitendra K. Samriya
 
 
 **🛡️ Adversarial Attack Detection**
