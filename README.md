@@ -71,7 +71,7 @@ Features: 6 modules (Auth, RBAC, Leave Management, Approval Workflows, Audit Log
 **🧠 Brain Tumor Detection**
 Tech Stack: YOLOv8/YOLOv11, Python
 Features: Trained on 500+ MRI scans, ~91% detection accuracy
-Mentor: Dr. Jitendra K. Samriya
+
 
 **🛡️ Adversarial Attack Detection**
 Tech Stack: CNN, FGSM, CIFAKE Dataset (~120K images)
