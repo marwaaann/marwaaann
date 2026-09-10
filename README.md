@@ -1,105 +1,145 @@
-<div align="center">
-
-# 👋 Hello, I'm Marwan Shafi!
-### 🚀 Full-Stack Developer & AI/ML Engineer
-**Final Year B.Tech CSE @ IIIT Sonepat (2023 – 2027)**
-
-[![Website](https://img.shields.io/badge/Portfolio-marwanshafi.tech-7f40ff?style=for-the-badge&logo=vercel&logoColor=white)](https://marwanshafi.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marwan-shafi-167701291)
-[![LeetCode](https://img.shields.io/badge/LeetCode-700+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/marwaaann)
-[![CodeChef](https://img.shields.io/badge/CodeChef-1540+-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/marwaaann)
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2004marwanshafi@gmail.com)
-
-</div>
+### 👋 Hello, I'm Marwan!
+🎯 Full-Stack Developer | 🔐 AI/ML Enthusiast | 🎓 B.Tech CSE @ IIIT Sonepat (Final Year) | 🔗 [marwanshafi.tech](https://marwanshafi.tech)
 
 ---
 
 ### 💫 About Me:
+🔭 I'm currently working on
+Building full-stack applications with Spring Boot + React, and exploring backend architecture at scale.
 
-- 🔭 **Currently Building**: Scalable enterprise distributed systems with **Spring Boot**, high-concurrency **Node.js/TypeScript** APIs, and agentic AI architectures with **LangGraph** & **Gemini**.
-- 💼 **Recent Experience**: Fullstack Developer Intern at **Kiwisoft Solutions** (delivered production-grade Spring Boot 3.x systems, 32+ secure REST endpoints, 18+ normalized PostgreSQL entities, and multi-stage workflows).
-- 🔬 **Research**: Published/submitted research papers under faculty mentorship in **Adversarial Machine Learning (FGSM)**, **Medical Computer Vision (YOLOv8)**, and **Social Graph Theory (XGBoost/SHAP)**.
-- ⚡ **Competitive Programming**: Solved **700+ DSA problems** across LeetCode (**Max 1624**, top 15% globally) and CodeChef (**1540+**).
-- 💬 **Ask Me About**: Java, Spring Boot, Spring Security, React, PostgreSQL, Docker, Redis, WebSocket architectures, and YOLO/Deep Learning pipelines.
+🤝 I'm looking to collaborate on
+Full-stack web apps, ML-powered tools, and open-source projects that solve real problems.
+
+🧠 I'm looking for help with
+Deepening my understanding of core Spring Framework concepts (IoC, dependency injection) and scaling backend systems.
+
+🌱 I'm currently learning
+Node.js/Next.js ecosystem, FastAPI, and LLM integration (LangChain, RAG).
+
+💬 Ask me about
+Java, Spring Boot, React, PostgreSQL, JWT auth, RBAC, or Computer Vision/ML projects.
+
+⚡ Fun fact
+I'm active in competitive programming — top 15% globally on LeetCode and 1540+ rated on CodeChef!
 
 ---
 
-### 🛠️ Tech Stack:
+### 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marrwaaan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marwan-shafi-167701291) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/marrwaaaaan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2004marwanshafi@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://marwanshafi.tech)
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Backend & Architecture** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.x-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![Hibernate/JPA](https://img.shields.io/badge/Hibernate_JPA-59666C?style=flat-square&logo=hibernate&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSockets_STOMP-blueviolet?style=flat-square) ![Swagger](https://img.shields.io/badge/Swagger/OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
-| **Frontend & UI** | ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Databases & BaaS** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white) |
-| **AI / Machine Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![Gemini API](https://img.shields.io/badge/Gemini_AI_API-8E75C6?style=flat-square&logo=google&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-1572B6?style=flat-square) |
-| **Cloud & DevOps** | ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+---
+
+### 💼 Professional Experience:
+
+**Fullstack Developer Intern @ Kiwisoft Solutions**
+*Jun 2026 – Jul 2026 | Kannur, Kerala*
+
+- 🔧 Built two production-grade Spring Boot systems — an **Employee & Department Management System** and a **Recruitment/Job Portal** — spanning 10+ modules (Auth, RBAC, Leave Management, Job Postings, Audit Logging)
+- 🛡️ Designed 32+ secure REST APIs with Spring Security and JWT (access/refresh tokens), with role-based access across six roles (Admin, Manager, Employee, Super Admin, Partner, Client)
+- 🗄️ Architected normalized PostgreSQL schemas across 18+ entities using Spring Data JPA/Hibernate, with pagination, indexed foreign keys, and optimized queries
+- 🔄 Implemented a multi-stage hiring workflow (Applied → Shortlisted → Interview → Offered/Rejected), OTP-based password reset, and duplicate-candidate detection
+- 🛠️ Tech Stack: Java, Spring Boot, Spring Security, Spring Data JPA/Hibernate, React, PostgreSQL, JWT
+
+---
+
+### 🏆 Coding Profiles:
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/marwaaann) [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/marwaaann) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marwaaann)
+
+---
+
+### 🎯 Achievements:
+- 🏆 3rd Rank — "Guardians of the Algorithms" Intra-College Codathon, IIIT Sonepat
+- 🏆 Solved 500+ problems across coding platforms; Max LeetCode rating 1624, top 15% globally
+- 🏆 CodeChef rating: 1540+
+- 🔐 Certified Cyber Engineer – Computer & Network Security (CCE-CNS)
+- 📚 B.Tech CSE, Final Year — IIIT Sonepat
+- 🔬 Research collaborations with Dr. Bhoopesh Singh Bhati (Adversarial Attack Detection), 
+ Dr. Jitendra K. Samriya (Computer Vision) and Dr. MD Arquam (Social Network Analysis)
 
 ---
 
 ### 🚀 Featured Projects:
 
-#### 🥗 [NutriVerse — AI Recipe & Nutrition Assistant](https://github.com/marwaaann/NutriVerse) · [Live Demo](https://nutri-verse-phi.vercel.app)
-> **TypeScript, Node.js, Express, React, MongoDB, Redis, LangGraph, Gemini API, AWS EC2, Zod**
-- Production AI assistant provisioned on **AWS EC2 (Nginx, PM2)** with Vercel frontend hosting and Upstash Redis session caching.
-- Integrated **Gemini AI API** for natural-language ingredient parsing, mapped against the **USDA FoodData Central REST API** to compute 7 key nutritional metrics with end-to-end Zod validation.
-- Implemented an autonomous **LangGraph 4-node agent** with dynamic LLM tool-calling (`bindTools`) and fallback generation guarded against recursion limits.
+**🥗 NutriVerse**
+Tech Stack: TypeScript, Node.js/Express, React, MongoDB, Redis, LangGraph, Gemini API, USDA API
+Features: Gemini-powered natural-language ingredient parsing mapped to the USDA FoodData Central API for 7 nutritional metrics per recipe with end-to-end Zod-validated schemas, LangGraph-based agentic recipe assistant with dynamic LLM tool-calling (bindTools) across a 4-node graph and Gemini-backed fallback generation, HttpOnly-cookie JWT auth with a Redis-backed session/cache layer
 
-#### 💼 [Recruitment & Job Portal System (Kinetic ATS)](https://github.com/marwaaann/recruitment-job-portal-system) · [Live Demo](https://recruitment-job-portal-system.vercel.app)
-> **Java 21, Spring Boot 3.x, React, PostgreSQL, Spring WebSocket (STOMP/SockJS), JWT**
-- Enterprise applicant tracking system featuring **50+ REST endpoints** across 8 modules and 11 normalized PostgreSQL entities via Spring Data JPA.
-- Enforced stateless JWT authentication with refresh-token rotation, cookie-based CSRF protection, and 4-tier RBAC (`Super Admin`, `Admin`, `Partner`, `Client`).
-- Implemented live role-based messaging with PostgreSQL conversation persistence, duplicate-candidate detection, and a 6-stage hiring workflow.
+**🧑‍💼 Recruitment & Job Portal**
+Tech Stack: Java 17, Spring Boot, React 19/Vite, PostgreSQL, WebSocket, JWT
+Features: 50+ REST endpoints across 8 modules, 11 normalized PostgreSQL entities, stateless JWT with refresh-token rotation, cookie-based CSRF protection, RBAC across 4 roles, real-time role-based messaging via Spring WebSocket/STOMP/SockJS with live delivery status, 6-stage hiring pipeline, OTP password reset, duplicate-candidate detection
 
-#### 🎬 [MovieOn — Movie Discovery Platform](https://github.com/marwaaann/MovieOn)
-> **React.js, Tailwind CSS, Appwrite Cloud, TMDB REST API, JavaScript, Vite**
-- Modern movie discovery application featuring real-time debounced search and infinite browsing via TMDB API.
-- Backed by an **Appwrite** database storing live search queries to power an automated dynamic trending movies algorithm.
-- Polished responsive dark-mode UI with card animations and loading states.
+**🏢 Employee & Department Management System**
+Tech Stack: Java, Spring Boot, PostgreSQL, JWT, JPA/Hibernate
+Features: 6 modules (Auth, RBAC, Leave Management, Approval Workflows, Audit Logging), 100+ employee records, 12+ REST APIs, multi-step leave approval workflow, structured audit logging
 
-#### 🧠 [NeuroScan.AI — Brain Tumor Detection](https://github.com/marwaaann/NeuroScan.AI) · [Live Demo](https://neuroscanai-ahwmpetaryjhq9pm3qv4et.streamlit.app)
-> **Python, YOLOv8, FastAPI, Streamlit, PyTorch, Docker**
-- Real-time clinical medical imaging application detecting 4 tumor classes (*Glioma, Meningioma, Pituitary, No Tumor*) on MRI scans.
-- Validated model achieves **96.3% mAP@50**, **93.9% precision**, and **94.0% recall** across 500+ augmented MRI scans.
-- Containerized **FastAPI REST inference microservice** paired with an interactive Streamlit diagnostic dashboard and `/health` monitoring.
+**🧠 NeuroScan.AI**
+Tech Stack: Python, YOLOv8, FastAPI, Streamlit
+Features: FastAPI backend + Streamlit frontend for real-time YOLOv8 brain tumor inference on MRI scans; trained across 4 tumor classes (Glioma, Meningioma, Pituitary, No Tumor) on 500+ MRI scans, 15% generalization improvement over baseline
+Achievement: 96.3% mAP@50, 93.9% precision, 94.0% recall — supervised by Dr. Jitendra K. Samriya
 
-#### 🏢 [Employee & Department Management System](https://github.com/marwaaann/Employee-Management-System)
-> **Java 17, Spring Boot 3.x, PostgreSQL, Spring Security, JWT, JPA/Hibernate**
-- Enterprise backend featuring 6 core modules: Authentication, Employee Management, Role Management, Leave Management, Approval Workflows, and Audit Logging.
-- Multi-step leave approval engine with structured audit trails and comprehensive Postman test collections.
 
-#### 🛡️ [Adversarial Attack Detection](https://github.com/marwaaann/Adversarial-attack-detection)
-> **Python, PyTorch, CNN, Fast Gradient Sign Method (FGSM), CIFAKE Dataset**
-- Deep learning research detecting adversarial perturbations in AI-generated images across 120,000+ samples.
-- Proposed Pixel Variation Analysis achieving a **98.5% detection rate** without auxiliary neural networks (research paper under submission).
+**🛡️ Adversarial Attack Detection**
+Tech Stack: CNN, FGSM, CIFAKE Dataset (~120K images)
+Achievement: 98.5% detection rate — under paper submission
+
+
+**🛒 FreshFinds**
+Tech Stack: MERN Stack
+Features: Marketplace with an image-based freshness classifier
+
+**📊 Influential User Identification**
+Tech Stack: XGBoost, SHAP, Twitter Network (80K+ nodes)
+Achievement: 99.3% accuracy
+
 
 ---
 
-### 🏆 Certifications & Achievements:
+### 💻 Tech Stack:
 
-- 🏅 **3rd Rank** — *Guardians of the Algorithms* Intra-College Codathon (IIIT Sonepat)
-- 💻 **700+ Problems Solved** across LeetCode (**Max 1624**, Top 15% globally) & CodeChef (**1540+**)
-- 🔐 **Certified Cyber Engineer — Computer & Network Security (CCE-CNS)**, IIT Madras (*Proficiency Level A+*)
-- 📈 **McKinsey.org Forward Program** — Professional Development Certification
-- 📚 **Academic & Research**: 4 Co-authored research projects across Computer Vision, Adversarial ML, and Social Network Analysis
+**Languages:**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Frontend:**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+
+**Backend:**
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+
+**Databases:**
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Data Science & ML:**
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+**Cloud & DevOps:**
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+**Tools:**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
-<div align="center">
+<!--
+  ⚠️ SELF-HOSTING NOTE: The shared github-readme-stats.vercel.app instance is
+  frequently rate-limited/down since it serves every GitHub user's README off
+  one free Vercel deployment. To fix permanently:
+  1. Fork https://github.com/anuraghazra/github-readme-stats
+  2. Deploy your fork to your own Vercel account (one click "Deploy" button
+     in that repo's README)
+  3. Replace "github-readme-stats.vercel.app" below with your own domain,
+     e.g. "your-username-github-readme-stats.vercel.app"
+  Do the same for streak-stats: fork https://github.com/DenverCoder1/github-readme-streak-stats
+-->
 
-### 📊 GitHub Activity & Stats:
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=marwaaann&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=86400)
+![](https://streak-stats.demolab.com?user=marwaaann&theme=highcontrast&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marwaaann&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact&cache_seconds=86400)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marwaaann&show_icons=true&theme=radical&hide_border=true" alt="Marwan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwaaann&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=marwaaann&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=marwaaann&icon=0&color=0)](https://visitcount.itsvg.in)
 
-*Designed & maintained by [Marwan Shafi](https://marwanshafi.tech) • Connect with me on [LinkedIn](https://linkedin.com/in/marwan-shafi-167701291)*
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
