@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Portfolio-marwanshafi.tech-7f40ff?style=for-the-badge&logo=vercel&logoColor=white)](https://marwanshafi.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marwan-shafi-167701291)
-[![LeetCode](https://img.shields.io/badge/LeetCode-446_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/marwaaann)
+[![LeetCode](https://img.shields.io/badge/LeetCode-450+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/marwaaann)
 [![CodeChef](https://img.shields.io/badge/CodeChef-1540+-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/marwaaann)
 [![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2004marwanshafi@gmail.com)
 
@@ -17,7 +17,7 @@
 ### 💫 About Me
 - 🔭 **Current Focus**: Building scalable full-stack applications with **Spring Boot & React**, microservices, and secure RESTful architectures.
 - 🧠 **Research**: Author of *"Predictive Machine Learning Framework for Neurodevelopmental Assessment"* (Q2 Scopus-Indexed).
-- 🧩 **Competitive Programming**: **446 problems solved on LeetCode** (Contest Rating 1,606, Max 1,624) and **700+ problems across all coding platforms**.
+- 🧩 **Competitive Programming**: **450+ problems solved on LeetCode** (Contest Rating 1,606, Max 1,624) and **700+ problems across all coding platforms**.
 - 🤝 **Collaboration**: Open to full-stack engineering, distributed systems, and AI/ML-driven software projects.
 - 💬 **Ask Me About**: Java, Spring Boot, Spring Security, React, Next.js, PostgreSQL, Docker, and Computer Vision.
 
