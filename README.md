@@ -28,7 +28,7 @@
   <table>
     <tr>
       <td align="center"><b>💻 Total Problems Solved</b><br/><code>700+</code> Across All Platforms</td>
-      <td align="center"><b>🔥 LeetCode Solved</b><br/><code>450+</code> (253 Easy, 163 Med, 30 Hard)</td>
+      <td align="center"><b>🔥 LeetCode Solved</b><br/><code>450+</code> </td>
       <td align="center"><b>⚡ LeetCode Max Rating</b><br/><code>1,624</code> (Top 23%)</td>
       <td align="center"><b>⭐ CodeChef Rating</b><br/><code>1540+</code> (2-Star)</td>
     </tr>
