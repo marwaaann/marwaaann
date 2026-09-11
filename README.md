@@ -116,4 +116,4 @@
 | **NutriVerse** | React, Node.js, AI / ML, MongoDB | Personalized nutrition, calorie intelligence, and macro dietary tracker | [Live](https://nutriverse-omega.vercel.app/) • [GitHub](https://github.com/marwaaann/NutriVerse) |
 | **NeuroScan.AI** | Python, PyTorch, CNN, FastAPI, React | Deep learning system for MRI brain tumor classification and detection | [GitHub](https://github.com/marwaaann/NeuroScan.AI) |
 | **Recruitment Job Portal** | Spring Boot, React, PostgreSQL, JWT | Role-based hiring platform with applicant tracking and recruiter dashboard | [GitHub](https://github.com/marwaaann/Job-Portal) |
-|
+
