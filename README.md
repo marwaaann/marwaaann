@@ -16,7 +16,7 @@
 
 ### 💫 About Me
 - 🔭 **Current Focus**: Building scalable full-stack applications with **Spring Boot & React**, microservices, and secure RESTful architectures.
-- 🧠 **Research**: Author of *"Predictive Machine Learning Framework for Neurodevelopmental Assessment"* (Q2 Scopus-Indexed).
+- 🧠 **Research**: Author of [*"Detection of Adversarial Attacks in AI-Generated Images Using FGSM and Pixel Variation Analysis"*](https://github.com/marwaaann/Adversarial-attack-detection) (Under Submission).
 - 🧩 **Competitive Programming**: **450+ problems solved on LeetCode** (Contest Rating 1,606, Max 1,624) and **700+ problems across all coding platforms**.
 - 🤝 **Collaboration**: Open to full-stack engineering, distributed systems, and AI/ML-driven software projects.
 - 💬 **Ask Me About**: Java, Spring Boot, Spring Security, React, Next.js, PostgreSQL, Docker, and Computer Vision.
